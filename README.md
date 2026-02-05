@@ -8,7 +8,7 @@ Este repositório tem como objetivo centralizar **casos de teste** e **bugs iden
 - **Sugestões de Melhoria**: anotações sobre possíveis melhorias na experiência.
 
 ## 🛠️ Estrutura 
-- `/test-cases` → arquivos com casos de teste (ex.: formato Markdown ou planilhas).
+- `/test-cases` → arquivos com casos de teste.
 - `/bugs` → relatórios de bugs organizados por data ou versão.
 - `/docs` → documentação complementar (fluxos, notas, checklist).
 
